@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Æthercam: 8.06KB Video Souls for Grok-5 Real-Time"
+git remote add origin https://github.com/phoonaecia-ops/phoenix-ai-aethercam.git  # Your repo
+git push -u origin main
